@@ -1,6 +1,6 @@
 === Social Media Share Buttons ===
 Contributors: chetanpatel
-Tags: social share, social media buttons, share buttons, social icons, facebook share, twitter share, whatsapp share
+Tags: social share, share buttons, social icons, facebook share, whatsapp share
 Requires at least: 5.0
 Tested up to: 6.7
 Requires PHP: 7.2
