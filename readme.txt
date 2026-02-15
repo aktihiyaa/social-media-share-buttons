@@ -2,7 +2,7 @@
 Contributors: chetanpatel
 Tags: social share, share buttons, social icons, facebook share, whatsapp share
 Requires at least: 5.0
-Tested up to: 6.7
+Tested up to: 6.8
 Requires PHP: 7.2
 Stable tag: 2.0.2
 License: GPLv2 or later
@@ -71,12 +71,12 @@ Of course, available on [GitHub](https://github.com/aktihiyaa/social-media-share
 ### Standard Installation
 
 1. In your WordPress admin panel, go to **Plugins > Add New**
-2. Search for **"Social Media Share Buttons"**
+2. Search for **"Ultimate Social Media Share Buttons"**
 3. Click **"Install Now"** and then **"Activate"**
 
 ### Manual Installation
 
-1. [Download the plugin](https://downloads.wordpress.org/plugin/social-media-share-buttons.zip)
+1. [Download the plugin](https://downloads.wordpress.org/plugin/ultimate-social-media-share-buttons.zip)
 2. Upload to your `/wp-content/plugins/` directory
 3. Activate the plugin through the **Plugins** menu in WordPress
 
@@ -88,7 +88,7 @@ Of course, available on [GitHub](https://github.com/aktihiyaa/social-media-share
 
 ### Need Help?
 
-* [Open a support ticket](https://wordpress.org/support/plugin/social-media-share-buttons/)
+* [Open a support ticket](https://wordpress.org/support/plugin/ultimate-social-media-share-buttons/)
 * [Visit our website](https://kalyanblogger.com/contact-us/)
 
 == Frequently Asked Questions ==
@@ -138,7 +138,7 @@ Yes! You can set a custom viewport width (in pixels) where the floating buttons 
 * Security improvements and code optimization
 * Fixed text domain for proper translations
 * Added proper escaping for all output
-* Updated tested up to WordPress 6.7
+* Updated tested up to WordPress 6.8
 * Improved sanitization for all settings
 
 = 2.0.1 =
